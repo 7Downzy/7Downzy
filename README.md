@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Downzy!
-
-I'm currently training as an **Application Developer**
-
 ---
 
 ## 📊 GitHub Stats
